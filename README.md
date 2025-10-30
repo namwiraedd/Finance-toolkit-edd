@@ -1,4 +1,4 @@
-https://www.linkedin.com/in/edward-j-a3a3bb321?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCp0zGi%2FfTTWku8Ypm4c6Xg%3D%3D
+[![linkedin](https://www.linkedin.com/in/edward-j-a3a3bb321?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCp0zGi%2FfTTWku8Ypm4c6Xg%3D%3D)
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor_this_Project-grey?logo=github)](https://github.com/sponsors/JerBouma)
 [![Documentation](https://img.shields.io/badge/Documentation-grey?logo=readme)](https://www.jeroenbouma.com/projects/financetoolkit/docs)
 [![Supported Python Versions](https://img.shields.io/pypi/pyversions/financetoolkit)](https://pypi.org/project/FinanceToolkit/)
